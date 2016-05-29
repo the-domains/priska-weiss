@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Priska Weiss]]></title>
         <description><![CDATA[Priska Weiss]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/priska-weiss/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 22:45:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 May 2016 22:47:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/priska-weiss/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[PRISKA WEISS]]></title>
             <description><![CDATA[<p>PRISKA WEISS</p>]]></description>
-            <link>undefinedpriska-weiss/index.html</link>
+            <link>https://thegrid.ai/priska-weiss/priska-weiss/index.html</link>
             <guid isPermaLink="false">f7ece2f6-08b1-4566-9f0f-1cf4ed95f9f7</guid>
-            <pubDate>Sun, 29 May 2016 22:45:06 GMT</pubDate>
+            <pubDate>Sun, 29 May 2016 22:47:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
