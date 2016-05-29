@@ -1,0 +1,28 @@
+name: Priska Weiss
+favicon: null
+layout_spectrum: 0.7170062344521284
+typography_spectrum: 0.44640503730624914
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.714862237451598
+  lightness: 0.03074254747480154
+  saturation: 0.2802421026863158
+  rhythmicContrast: 0.5131900149863213
+purpose: []
