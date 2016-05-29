@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: PRISKA WEISS
-datePublished: '2016-05-29T23:13:31.929Z'
-dateModified: '2016-05-29T22:47:19.674Z'
+datePublished: '2016-05-29T23:30:11.227Z'
+dateModified: '2016-05-29T23:29:14.407Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-29-priska-weiss.md
