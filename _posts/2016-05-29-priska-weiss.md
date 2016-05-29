@@ -1,18 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: PRISKA WEISS
-datePublished: '2016-05-29T22:45:06.663Z'
-dateModified: '2016-05-29T22:43:05.268Z'
+datePublished: '2016-05-29T22:47:12.143Z'
+dateModified: '2016-05-29T22:46:34.054Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-29-priska-weiss.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-29-priska-weiss.md
 url: priska-weiss/index.html
 _type: Article
 
